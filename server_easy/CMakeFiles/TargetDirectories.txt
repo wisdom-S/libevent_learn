@@ -1,0 +1,3 @@
+/home/mr_song/CLionProjects/server_easy/CMakeFiles/edit_cache.dir
+/home/mr_song/CLionProjects/server_easy/CMakeFiles/rebuild_cache.dir
+/home/mr_song/CLionProjects/server_easy/CMakeFiles/server_easy.dir

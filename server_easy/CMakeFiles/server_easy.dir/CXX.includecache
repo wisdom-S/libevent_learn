@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mr_song/CLionProjects/server_easy/main.cpp
+iostream
+-
+string.h
+-
+stdio.h
+-
+errno.h
+-
+unistd.h
+-
+event.h
+-
+

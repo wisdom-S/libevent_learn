@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/server_easy.dir/main.cpp.o  -o server_easy 
